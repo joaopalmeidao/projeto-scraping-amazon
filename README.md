@@ -1,0 +1,1 @@
+# Scraping project made to get amazon information from the Best Sellert product Pages
